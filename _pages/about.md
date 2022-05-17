@@ -18,4 +18,4 @@ I am a Ph.D. student in the [Department of Political Science](https://polisci.uc
 
 I am broadly interested in electoral accountability, retrospective voting, voter learning -- especially when these questions intersect with public health and healthcare. Currently, I am part of an interdisciplinary team at UCLA studying the political and health consequences of COVID-19. I also am involved in a project on the electoral implications of the opioid epidemic.
 
-My CV is available [here](/assets/pdf/baxter_king_cv_2020_11_08.pdf){:target="_blank"}.
+My CV is available [here](/assets/pdf/baxter_king_cv.pdf){:target="_blank"}.
