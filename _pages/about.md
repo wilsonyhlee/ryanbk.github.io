@@ -26,5 +26,5 @@ Before starting graduate school at UCLA, I worked in public health and healthcar
 
 My CV is available [here](/assets/pdf/baxter_king_cv.pdf){:target="_blank"}.  
 
-The syllabus for a course that I developed, "Health, Politics, and Culture: Medicare and Medicaid Policy" is available [here](Medicare and Medicaid Syllabus.pdf){:target="_blank"}.
+The syllabus for a course that I developed, "Health, Politics, and Culture: Medicare and Medicaid Policy" is available [here](/assets/pdf/medicare_and_medicaid_syllabus.pdf){:target="_blank"}.
 
