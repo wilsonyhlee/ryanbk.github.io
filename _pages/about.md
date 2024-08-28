@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I am a Ph.D. Candidate in the [Department of Political Science](https://polisci.ucla.edu/){:target="_blank"} at the University of California, Los Angeles, and a Predoctoral Fellow at the [Center for the Study of Democratic Institutions]()){:target="_blank"} at Vanderbilt University.  
+Welcome! I am a Ph.D. Candidate in the [Department of Political Science](https://polisci.ucla.edu/){:target="_blank"} at the University of California, Los Angeles, and a Predoctoral Fellow at the [Center for the Study of Democratic Institutions](https://www.vanderbilt.edu/csdi/){:target="_blank"} at Vanderbilt University.  
 
 I study how real-world events interact with voters’ partisan attachments to shape elections and public opinion in the United States. In particular, my research focuses on those voters who live closest to focusing events, are exposed to salient policy changes, and or whose local communities experience worsening policy outcomes. 
 
