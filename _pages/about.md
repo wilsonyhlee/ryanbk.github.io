@@ -26,7 +26,5 @@ More broadly, I am  interested in electoral accountability, political participat
 
 Prior to graduate school, I worked at the [AIDS Institute](https://www.health.ny.gov/diseases/aids/){:target="_blank"} (New York State Department of Health) in the Office of the Medical Director, and at [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/){:target="_blank"} in the Department of Strategy and Innovation. 
 
-My CV is available [here](/assets/pdf/baxter_king_cv.pdf){:target="_blank"}.  
-
-The syllabus for a course that I developed and  taught in 2022 and 2024, "Health, Politics, and Culture: Medicare and Medicaid Policy" is available [here](/assets/pdf/medicare_and_medicaid_syllabus.pdf){:target="_blank"}.
+My CV is available [here](/assets/pdf/baxter_king_cv.pdf){:target="_blank"}. The syllabus for a course that I developed and  taught in 2022 and 2024, "Health, Politics, and Culture: Medicare and Medicaid Policy," [is also available](/assets/pdf/medicare_and_medicaid_syllabus.pdf){:target="_blank"}.
 
